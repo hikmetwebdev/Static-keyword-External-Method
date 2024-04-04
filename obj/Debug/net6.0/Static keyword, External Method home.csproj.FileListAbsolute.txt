@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\bin\Debug\net6.0\Static keyword, External Method home.exe
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\bin\Debug\net6.0\Static keyword, External Method home.deps.json
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\bin\Debug\net6.0\Static keyword, External Method home.runtimeconfig.json
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\bin\Debug\net6.0\Static keyword, External Method home.dll
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\bin\Debug\net6.0\Static keyword, External Method home.pdb
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\Static keyword, External Method home.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\Static keyword, External Method home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\Static keyword, External Method home.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\Static keyword, External Method home.AssemblyInfo.cs
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\Static keyword, External Method home.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\Static keyword, External Method home.dll
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\refint\Static keyword, External Method home.dll
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\Static keyword, External Method home.pdb
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\Static keyword, External Method home.genruntimeconfig.cache
+C:\Users\User\source\repos\Classes\Static keyword, External Method home\obj\Debug\net6.0\ref\Static keyword, External Method home.dll
